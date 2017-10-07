@@ -10,4 +10,4 @@ Distributed Crawler and Search Engine - Java/Storm/Spark/Elastic MapReduce/AWS S
 • Provided support for geo-specific searches, text to speech synthesis and integrated with Twitter and eBay APIs.
 
 
-Note : Please reach out to me for the source code. 
+Note : Due to Penn's academic policies, I am not allowed to upload the source code. Please reach out to if you would like to have a look at it. 
