@@ -8,3 +8,6 @@ Distributed Crawler and Search Engine - Java/Storm/Spark/Elastic MapReduce/AWS S
   server to load dynamic search results that were based on a ranking algorithm, which approximately took 0.5sec to retrieve
   top ten results.
 • Provided support for geo-specific searches, text to speech synthesis and integrated with Twitter and eBay APIs.
+
+
+Note : Please reach out to me for the source code. 
